@@ -1,0 +1,14 @@
+Wanted to just write stuff down so I don't forget
+should I be concerned about running a loop tiwce, you created the words loop
+
+   words = [ x.strip() for x in open("dictionary.txt", "r") if len(x.strip()) == 7 ]
+ 
+ then the
+ 
+  for x in words loop
+ 
+ doesnt this slown down the code runnng a loop twice or am I becoming too time concerned versus readability  
+ 
+ is it better to try and write as muny functions/operations in a single line of code
+ 
+ is a list hask key quicker or slower than a string?
